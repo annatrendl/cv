@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.11)  6 NOV 2019 16:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.11)  6 NOV 2019 19:36
 entering extended mode
 **./cv.tex
 (cv.tex
@@ -1157,11 +1157,11 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: 196D3BEABDA2BC39F28620DA3702D5D0;783.
  ) 
 Here is how much of TeX's memory you used:
- 29875 strings out of 493301
- 563693 string characters out of 3129579
+ 29877 strings out of 493301
+ 563715 string characters out of 3129579
  727050 words of memory out of 3000000
  33007 multiletter control sequences out of 15000+200000
- 587296 words of font info for 73 fonts, out of 3000000 for 9000
+ 587397 words of font info for 74 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,11n,58p,10357b,331s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Anna/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc
@@ -1173,7 +1173,7 @@ m/lmssbx10.pfb><C:/Users/Anna/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
 lic/lm/lmsso10.pfb><C:/Users/Anna/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
 /public/lm/lmsso17.pfb><C:/Users/Anna/AppData/Local/Programs/MiKTeX 2.9/fonts/t
 ype1/public/marvosym/marvosym.pfb>
-Output written on cv.pdf (2 pages, 151895 bytes).
+Output written on cv.pdf (2 pages, 151884 bytes).
 PDF statistics:
  84 PDF objects out of 1000 (max. 8388607)
  11 named destinations out of 1000 (max. 500000)
